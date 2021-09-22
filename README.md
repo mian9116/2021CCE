@@ -5,7 +5,7 @@ REAdme.md是用MarkDown語法
 
 # 第一週
 
-程式碼要放到文件中要```
+程式碼要放到文件中要```C，最後面要再加```
 
 ```C
 
@@ -14,3 +14,4 @@ int main()
 {
     printf("Hello World\n");
 }
+```
