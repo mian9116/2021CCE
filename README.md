@@ -13,5 +13,3 @@ int main()
     printf("Hello World\n");
 }
 ```
-
-![家羅](images.jpg.jfif)
